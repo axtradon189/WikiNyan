@@ -1,0 +1,81 @@
+body
+{
+	margin: 0;
+	padding: 0px;
+}
+.robot
+{
+	font-family: 'Roboto', sans-serif;
+}
+.montserrat
+{
+	font-family: 'Montserrat', sans-serif;
+}
+.box
+{
+	width: 900px;
+	margin: auto;
+	overflow: hidden;
+}
+.big-banner
+{
+	background: url('../image/bg.jpg')no-repeat;
+	height: 700px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.menu
+{
+	overflow: hidden;
+}
+.logo
+{
+	float: left;
+}
+.logo h1
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	color: #000;
+}
+.whiteblue
+{
+	color: azure;
+}
+.red
+{
+	background: #fc122d;
+	color: #fff;
+	padding: 5px;
+	border-radius: 10px;
+}
+.banner-text
+{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 220px;
+}
+.banner-text h1
+{
+	font-weight: 300;
+}
+.bold
+{
+	font-weight: 900;
+	letter-spacing: 1px;
+	color: #fc122d;
+}
+.btn-scroll
+{
+	background: #fc122d;
+	color: #fff;
+	padding: 15px 8%;
+	border-radius: 50px;
+	text-decoration: none;
+	display: inline-block;
+}
+.btn-scroll:hover
+{
+	background: #FFC0CB;
+	transition: 0.5s;
+}
